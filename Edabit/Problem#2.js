@@ -1,4 +1,5 @@
 //Check if the number is higher than the initial number when the 2 digits are switched.
+
 function NumFalseTrue(input){
     var x = input.toString();
     var y = x.split("")
