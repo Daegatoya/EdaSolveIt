@@ -3,7 +3,7 @@ Some problems from Edabit I did to practice in JavaScript!
 
 ---
 
-**With love, Elizabeth** ❤️
+**With love, Daegatoya** ❤️
          
 <p align="center">
 
